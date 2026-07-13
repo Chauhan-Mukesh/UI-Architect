@@ -1,9 +1,17 @@
 # Design Thinking
 
-## Goal
-Capture reusable guidance for design thinking decisions in UI Architect outputs.
+## Objective
+Use a repeatable problem-solving loop before implementation.
 
-## Checklist
-- Define core principles
-- Provide practical do/don't guidance
-- Include accessibility and performance impact
+## Workflow
+1. **Empathize**: collect user context and constraints.
+2. **Define**: frame measurable problem statements.
+3. **Ideate**: evaluate multiple layout/interaction directions.
+4. **Prototype**: choose a direction with explicit assumptions.
+5. **Test**: run heuristic checks and revise.
+
+## Required outputs
+- Problem statement
+- Success metrics
+- Assumptions and risks
+- Chosen direction with rationale

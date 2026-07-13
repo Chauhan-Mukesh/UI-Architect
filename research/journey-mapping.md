@@ -1,9 +1,18 @@
 # Journey Mapping
 
-## Purpose
-Provide structured research steps before UI generation.
+## Objective
+Model end-to-end user paths to align layout flow with real decision stages.
 
-## Required outputs
-- Key insights
-- Risks and assumptions
-- Actionable design direction
+## Stages
+1. Awareness
+2. Evaluation
+3. Decision
+4. Completion
+5. Post-action confidence
+
+## For each stage capture
+- User intent
+- Questions and doubts
+- Required content
+- Recommended interaction pattern
+- Success/failure signals

@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented in this file.
 
+## [0.2.0] - 2026-07-13
+### Added
+- Expanded Phase 2 core content for `knowledge/` modules with actionable UX/UI principles.
+- Expanded `research/` engine modules with structured discovery, analysis, and output formats.
+- Enhanced `SKILL.md` with explicit stage outputs aligned to research-first workflow.
+
 ## [0.1.0] - 2026-07-13
 ### Added
 - Initial repository architecture based on `plan.md`.

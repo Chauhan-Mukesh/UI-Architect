@@ -1,9 +1,18 @@
 # Competitor Analysis
 
-## Purpose
-Provide structured research steps before UI generation.
+## Objective
+Extract useful patterns and opportunities without imitation.
 
-## Required outputs
-- Key insights
-- Risks and assumptions
-- Actionable design direction
+## Analysis framework
+- Positioning and value proposition clarity
+- Navigation and information architecture
+- Conversion patterns and CTA strategy
+- Trust signals (proof, security, transparency)
+- Accessibility and readability maturity
+- Mobile responsiveness quality
+
+## Output format
+- What works well
+- What creates friction
+- What is overused/template-like
+- Opportunities for differentiated UX
