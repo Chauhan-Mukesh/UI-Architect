@@ -2,6 +2,12 @@
 
 All notable changes to this project are documented in this file.
 
+## [0.4.0] - 2026-07-13
+### Added
+- Expanded `accessibility/` modules with practical WCAG 2.2 AA requirements and validation checks.
+- Expanded `validators/` modules with pass criteria and severity levels for HTML, CSS, UX, accessibility, performance, and SEO.
+- Updated `self-review/questions.md` to align review prompts with quality-gate expectations.
+
 ## [0.3.0] - 2026-07-13
 ### Added
 - Expanded industry research modules for `saas`, `education`, `medical`, `finance`, and `government`.
