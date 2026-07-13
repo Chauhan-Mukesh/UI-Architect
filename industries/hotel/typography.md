@@ -1,3 +1,11 @@
 # Hotel — Typography
 
-- Add domain-specific guidance for this topic.
+## Typographic style
+- Tone target: welcoming, premium, low-friction.
+- Optimize hierarchy for quick comprehension.
+- Prioritize readable body copy and unambiguous labels.
+
+## Readability rules
+- Keep headings short and action-oriented.
+- Preserve legibility of supporting/legal technical text.
+- Ensure mobile typography remains scan-friendly.

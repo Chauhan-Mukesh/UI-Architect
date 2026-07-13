@@ -2,6 +2,11 @@
 
 All notable changes to this project are documented in this file.
 
+## [0.6.0] - 2026-07-13
+### Added
+- Expanded industry research modules for `construction`, `manufacturing`, `automotive`, `hotel`, and `developer-tools`.
+- Added structured guidance across each industry's `best-practices`, `layout-preferences`, `recommended-colors`, `typography`, `common-components`, `conversion-goals`, `mistakes`, and `examples` files.
+
 ## [0.5.0] - 2026-07-13
 ### Added
 - Expanded industry research modules for `travel`, `retail`, `legal`, `insurance`, and `real-estate`.
