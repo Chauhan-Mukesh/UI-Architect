@@ -2,6 +2,11 @@
 
 All notable changes to this project are documented in this file.
 
+## [0.3.0] - 2026-07-13
+### Added
+- Expanded industry research modules for `saas`, `education`, `medical`, `finance`, and `government`.
+- Added structured guidance across each industry's `best-practices`, `layout-preferences`, `recommended-colors`, `typography`, `common-components`, `conversion-goals`, `mistakes`, and `examples` files.
+
 ## [0.2.0] - 2026-07-13
 ### Added
 - Expanded Phase 2 core content for `knowledge/` modules with actionable UX/UI principles.
