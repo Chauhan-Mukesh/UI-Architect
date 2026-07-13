@@ -2,6 +2,22 @@
 
 All notable changes to this project are documented in this file.
 
+## [0.7.0] - 2026-07-13
+### Added
+- `SKILL.md` YAML frontmatter (`name`, `description`) so the skill is installable in Claude Code.
+- `SKILL.md` **Loading map** — explicit per-phase file selection rules to keep token cost low.
+- `docs/architecture.md` — module contract every knowledge file follows.
+- 10 `prompts/*.md` operational modules (research, layout, design, color, animation, typography, html, css, javascript, review) — the workflow's operational instructions.
+- Filled 5 previously-stubbed industry verticals: `agency`, `portfolio`, `restaurant`, `open-source`, `artificial-intelligence` (8 files each — 40 files total). All 20 verticals now covered at parity.
+- 9 layout families' `README.md` and 27 layout variants (3 per family) with structure, breakpoints, accessibility, and anti-patterns.
+- 23 component `README.md` files (buttons, cards, forms, gallery, faq, timeline, comparison, stats, pricing, navbar, footer, modal, toast, tabs, accordion, breadcrumbs, sidebar, tables, charts, pagination, search, filters, testimonials).
+- 5 `html/`, 8 `css/`, 5 `javascript/`, 10 `typography/`, 3 `colors/`, 7 `animations/`, 6 `accessibility/`, 6 `performance/`, 4 `seo/`, 9 `design-systems/`, and 6 `checklists/` prescriptive rulebooks.
+- 6 `templates/*/README.md` structural specs (landing-page, dashboard, portfolio, documentation, blog, marketing).
+- 8 `examples/*/README.md` worked examples with prompt → research → design → output plan → review notes.
+
+### Changed
+- `README.md` rewritten to reflect the skill's current shape and operating principles.
+
 ## [0.6.0] - 2026-07-13
 ### Added
 - Expanded industry research modules for `construction`, `manufacturing`, `automotive`, `hotel`, and `developer-tools`.
